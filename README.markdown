@@ -1,5 +1,5 @@
 ## Portfolio
-Visit the final product here: https://dhbuild002.github.io/portfolio-codecademy/
+Visit the final product here: https://dhbuild002.github.io/portfolio/
 
 
 # Build a Portfolio page Challenge
